@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![bannerGH1](https://user-images.githubusercontent.com/90009264/150397276-cd86f03f-4260-4574-83af-2dc34f406f6f.png)
 
 ---
-###About me:👨‍💻
+About me:👨‍💻
 
 I'm a Computer Science student at Escuela de Ciencias in Universidad Autónoma Benito Juarez De Oaxaca. I love programming and I aspire to be a web programmer. I'm gamer and autodidact.
 
