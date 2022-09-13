@@ -42,4 +42,3 @@ Javascript, Typescript, and much more
 
 🌎 &nbsp;&nbsp;Find me around the web:
 - Emailme cheslbs@gmail.com
-- Talking and sharing in <a href="https://www.twitter.com/ChesLBS">Twitter</a>
